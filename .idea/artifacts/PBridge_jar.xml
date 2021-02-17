@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PBridge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PBridge_jar</output-path>
+    <root id="archive" name="PBridge.jar">
+      <element id="module-output" name="PBridge" />
+    </root>
+  </artifact>
+</component>
